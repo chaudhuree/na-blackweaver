@@ -1,3 +1,11 @@
-## Personal Portfolio
+# BLACKWEAVER
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+it is a project designed with next.js, styled component, react icon and so on
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm i && npm run dev
+```
