@@ -18,7 +18,7 @@ export const Container = styled.div`
   }
 `;
 export const Div1 = styled.div`
-  grid-area: 1 / 1 / 2 / 2;
+  grid-area: 1 / 1 / 2 / 2; //rowStart/columnStart/rowEnd/columnEnd
   display: flex;
   flex-direction: row;
   align-content: center;
