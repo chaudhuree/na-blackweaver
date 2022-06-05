@@ -17,6 +17,15 @@ export const Container = styled.div`
     grid-row-gap: 0.5rem;
   }
 `;
+export const Logo = styled.a`
+  display:flex;
+  align-items: center;
+  color: #fff;
+  margin-bottom:20px
+`;
+export const Span = styled.span`
+  font-size: 2rem;
+`;
 export const Div1 = styled.div`
   grid-area: 1 / 1 / 2 / 2; //rowStart/columnStart/rowEnd/columnEnd
   display: flex;
